@@ -7,4 +7,4 @@ Stress Level Analysis for Students based on features extracted from StudentLife 
 
 ![Stress Heat Level](/Plots/c.png)
 
-![Clustering](/Plots/d.png)
+![Clustering](/Plots/d.PNG)
