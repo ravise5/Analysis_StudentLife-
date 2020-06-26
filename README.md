@@ -3,8 +3,8 @@ Stress Level Analysis for Students based on features extracted from StudentLife 
 
 ![PCA of Data](/Plots/PCA.png)
 
-![Outlier Detection Using Isolation Forest](/Plots/Isolation Forest.png)
+![Outlier Detection Using Isolation Forest](/Plots/b.png)
 
-![Stress Heat Level](/Plots/Stress Heat Plot.png)
+![Stress Heat Level](/Plots/c.png)
 
-![Clustering](/Plots/Gaussian_Mixture_Clustering.png)
+![Clustering](/Plots/d.png)
